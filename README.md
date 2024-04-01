@@ -1,3 +1,3 @@
 This is my portfolio website :grinning:
 
-Copyrights © Vuk Stojanović. All rights reserved.
+Copyright © Vuk Stojanović, 2023. All rights reserved.
